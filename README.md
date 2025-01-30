@@ -4,18 +4,43 @@
 
 ###
 
-<br clear="both">
+###
 
 <h2 align="center">Learning new things everyday ⚡️</h2>
 
 ###
 
+<h2 align="left">Coding Status :</h2>
+
+```
+From: 04 June 2023 - To: 29 January 2025
+
+Total Time: 552 hrs 5 mins
+
+JavaScript   240 hrs 26 mins   43.33%
+CSS         103 hrs 51 mins   18.72%
+HTML         95 hrs 8 mins    17.14%
+TypeScript   46 hrs 52 mins    8.45%
+Markdown     24 hrs 6 mins     0.34%
+```
+
 ###
 
-<h2 align="left">📊 Coding Stats :</h2>
+<h2 align="left">📊 Account Status :</h2>
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=abhinavkale&layout=compact)
+<details>
+  <summary>Details</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinavkale-dev&show_icons=true&theme=tokyonight" />
+</details>
 
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=abhinavkale&layout=compact&theme=tokyonight)
+
+###
+
+<h3>Let's Connect - </h3>
+
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/abhinav-kale-602667248/" target="_blank">
@@ -28,7 +53,7 @@
 
 ###
 
-<h2 align="left">💻  Tech Stack :</h2>
+<h2 align="left">💻 Tech Stack :</h2>
 
 ###
 
@@ -81,10 +106,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="50" alt="amazonwebservices logo"  />
   </a>
   <img width="12" />
-  <a href="https://wakatime.com/@abhinavkale-dev" target="_blank">
-    <img src="https://wakatime.com/badge/user/abhinavkale.svg" height="50" alt="wakatime stats"  />
-  </a>
-  <img width="12" />
   <a href="https://kafka.apache.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="50" alt="apachekafka logo"  />
   </a>
@@ -93,6 +114,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="redis logo"  />
   </a>
 </div>
-
-
-
