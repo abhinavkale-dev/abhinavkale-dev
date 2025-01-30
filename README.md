@@ -1,57 +1,23 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/abhinavkale-dev/count.svg"  />
-</div>
-
-###
-
 ###
 
 <h2 align="center">Learning new things everyday ⚡️</h2>
 
 ###
 
-<h2 align="left">Coding Status :</h2>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhinavkale-dev&color=blue&style=flat-square" />
+</div>
 
-```
-From: 04 June 2023 - To: 29 January 2025
 
-Total Time: 552 hrs 5 mins
-
-JavaScript   240 hrs 26 mins   43.33%
-CSS         103 hrs 51 mins   18.72%
-HTML         95 hrs 8 mins    17.14%
-TypeScript   46 hrs 52 mins    8.45%
-Markdown     24 hrs 6 mins     0.34%
-```
-
-###
-
-<h2 align="left">📊 Account Status :</h2>
+<h2 align="left">Account Status :</h2>
 
 <details>
   <summary>Details</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=abhinavkale-dev&show_icons=true&theme=tokyonight" />
 </details>
 
-
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=abhinavkale&layout=compact&theme=tokyonight)
 
-###
-
-<h3>Let's Connect - </h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/abhinav-kale-602667248/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/Abhinavstwt" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-</div>
-
-###
 
 <h2 align="left">💻 Tech Stack :</h2>
 
@@ -114,3 +80,19 @@ Markdown     24 hrs 6 mins     0.34%
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="redis logo"  />
   </a>
 </div>
+
+###
+
+<h3>Let's Connect - </h3>
+
+###
+<div align="left">
+  <a href="https://www.linkedin.com/in/abhinav-kale-602667248/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/Abhinavstwt" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
+
+###
