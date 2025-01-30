@@ -1,0 +1,40 @@
+name: Update WakaTime Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  
+  workflow_dispatch: 
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Fetch WakaTime Stats
+        run: |
+          curl -s "https://wakatime.com/api/v1/users/abhinavkale/stats/last_7_days?api_key=${{ secrets.WAKATIME_API_KEY }}" | jq '.data.languages' > coding_stats.json
+
+      - name: Format Stats into Readable Format
+        run: |
+          echo "```" > coding_status.txt
+          echo "From: $(date -d '-7 days' '+%d %B %Y') - To: $(date '+%d %B %Y')" >> coding_status.txt
+          echo "" >> coding_status.txt
+          echo "Total Time: $(jq -r '[.[] | .total_seconds] | add / 3600 | round' coding_stats.json) hrs" >> coding_status.txt
+          echo "" >> coding_status.txt
+          jq -r '.[] | "\(.name)   \(.text)   \(.percent)%"' coding_stats.json >> coding_status.txt
+          echo "```" >> coding_status.txt
+
+      - name: Update README
+        run: |
+          sed -i '/<h2 align="left">Coding Status :<\/h2>/,/<\/pre>/c\<h2 align="left">Coding Status :</h2>\n\n$(cat coding_status.txt)" README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Updated WakaTime coding stats"
+          git push
