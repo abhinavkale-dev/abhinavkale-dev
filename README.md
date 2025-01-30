@@ -60,11 +60,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="redis logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/abhinavkale-dev/abhinavkale-dev/output/snake.svg" alt="Snake animation" />
-
-###
