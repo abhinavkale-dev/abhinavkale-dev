@@ -3,7 +3,7 @@
 
 
 <a href="https://github.com/Aniketyadav05">
-  <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDgzd2ExNzB0cGs3N3NzdW5tbTlkNWF5OTd4enJoZjF5a2NhbjF3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300">
+  <img align="right" src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif?cid=790b7611t7rjt6nthbyc6cxxcbh1w4j30523v569jn6mgsel&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
 </a>
 
 ### ✔️ I'm currently learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
