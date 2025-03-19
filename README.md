@@ -9,13 +9,13 @@
 ### ✔️ I'm currently learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - Golang 🔵
 - React.js, Next.js ⚛️
-- Web3 🦀
+- CS Fundamentals 💻
 
 ### 🌱 Goals for 2025
 - Complete 100Days of Accountability 💯.
 - Build 30+ projects 🛠️.
 - Contribute to Open Source 🌐.
-- Get Placed 🏆
+- Get Internship
 
 <h2 align="left">Account Status :</h2>
 
