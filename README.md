@@ -86,7 +86,7 @@
 <table width="120" align="left">
   <tr>  
     <td align="center" width="60">
-      <a href="https://x.com/AniketYadav05_"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" width="60"></a>
+      <a href="https://x.com/Abhinavstwt"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" width="60"></a>
     </td>
     <td align="center" width="60">
       <a href="https://linkedin.com/"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" height="36" width="65"></a>
