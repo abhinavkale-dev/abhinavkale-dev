@@ -2,7 +2,7 @@
 <h2 align="center">Learning new things everyday ⚡️</h2>
 
 
-<a href="https://github.com/Aniketyadav05">
+<a href="https://github.com/abhinavkale-dev">
   <img align="right" src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif?cid=790b7611t7rjt6nthbyc6cxxcbh1w4j30523v569jn6mgsel&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
 </a>
 
