@@ -11,13 +11,13 @@
 - React.js, Next.js ⚛️
 - CS Fundamentals 💻
 
-### 🌱 Goals for 2025
+### <img src="https://media.giphy.com/media/n24Eq6str4wLglFVw6/giphy.gif?cid=790b7611tsdiq320yew5aukjpcfkl9drf87ndgo5gz28wmc0&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40" align="absmiddle"> Goals for 2025
 - Complete 100Days of Accountability 💯.
 - Build 30+ projects 🛠️.
 - Contribute to Open Source 🌐.
 - Get Internship
 
-<h2 align="left">Account Status :</h2>
+### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtjNHp5a3BtYW1saXFyODUycjdjNHJ2OTRvdGJlY2tpbGk3amhrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wkW0maGDN1eSc/giphy.gif" width="40" align="absmiddle"> Account Status : 
 
 <details>
   <summary>Details</summary>
@@ -81,7 +81,7 @@
 
 ###
 
-<h3>Let's Connect - </h3>
+<h3><img src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif?cid=ecf05e47246z68gic13exguovr5xae6jhotnfa5nmu0evi54&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60" align="absmiddle"> Let's Connect - </h3>
 
 <table width="120" align="left">
   <tr>  
@@ -99,9 +99,10 @@
     </td>
   </tr>
 </table>
-<br>
+<br />
+<br />
 
-<div align="center">
+<div align="left">
   <h2><b>👀 Visitor Count</b></h2>
   <img src="https://count.getloli.com/@abhinavkale-dev?theme=booru-huggboo" alt="Abhinav Kale" />
 </div>
