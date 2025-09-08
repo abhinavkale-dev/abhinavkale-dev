@@ -1,17 +1,27 @@
-###
 <h2 align="center">Learning new things everyday ⚡️</h2>
 
-
 <a href="https://github.com/abhinavkale-dev">
-  <img align="right" src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif?cid=790b7611t7rjt6nthbyc6cxxcbh1w4j30523v569jn6mgsel&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
+  <img
+    align="right"
+    src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif?cid=790b7611t7rjt6nthbyc6cxxcbh1w4j30523v569jn6mgsel&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+    width="360"
+    alt="Coding gif"
+  />
 </a>
 
-### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtjNHp5a3BtYW1saXFyODUycjdjNHJ2OTRvdGJlY2tpbGk3amhrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wkW0maGDN1eSc/giphy.gif" width="40" align="absmiddle"> Account Status : 
+<h3>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtjNHp5a3BtYW1saXFyODUycjdjNHJ2OTRvdGJlY2tpbGk3amhrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wkW0maGDN1eSc/giphy.gif"
+       width="24" align="absmiddle" alt="pulse" />
+  &nbsp;Account Status :
+</h3>
 
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavkale-dev&layout=compact&theme=tokyonight"
+  alt="Most Used Languages"
+  width="420"
+/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavkale-dev&layout=compact&theme=tokyonight" />
-  <br/>
-  <br/>
+<br clear="both"/>
 
 <h2 align="left">
   <img src="https://media.giphy.com/media/QVz8bVdhi6dmkIkg61/giphy.gif" width="40" align="absmiddle" />
