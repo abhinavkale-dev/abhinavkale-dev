@@ -18,7 +18,7 @@
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavkale-dev&layout=compact&theme=tokyonight"
   alt="Most Used Languages"
-  width="420"
+  width="370"
 />
 
 <br clear="both"/>
