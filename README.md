@@ -8,12 +8,9 @@
 
 ### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtjNHp5a3BtYW1saXFyODUycjdjNHJ2OTRvdGJlY2tpbGk3amhrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wkW0maGDN1eSc/giphy.gif" width="40" align="absmiddle"> Account Status : 
 
-<details>
-  <summary>Details</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinavkale-dev&show_icons=true&theme=tokyonight" />
-</details>
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=abhinavkale&layout=compact&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavkale-dev&layout=compact&theme=tokyonight" />
+
 
 <h2 align="left">
   <img src="https://media.giphy.com/media/QVz8bVdhi6dmkIkg61/giphy.gif" width="40" align="absmiddle" />
