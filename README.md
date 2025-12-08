@@ -15,11 +15,8 @@
   &nbsp;Account Status :
 </h3>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavkale-dev&layout=compact&theme=tokyonight"
-  alt="Most Used Languages"
-  width="370"
-/>
+
+<a href="https://github.com/abhinavkale-dev/github-readme-stats?tab=readme-ov-file#top-languages-card"><img width="345" align="center" alt="Top Language" src="https://github-readme-stats-tau-nine-81.vercel.app/api/top-langs/?username=abhinavkale-dev&layout=compact&title_color=cba6f7&theme=tokyonight&border_color=45475a"/></a>
 
 <br clear="both"/>
 
